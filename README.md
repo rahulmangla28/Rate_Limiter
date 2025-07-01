@@ -10,13 +10,13 @@ A simple, efficient, and customizable **Rate Limiter** implementation in Go desi
 
 ## 📚 Table of Contents
 
-- [About](https://github.com/rahulmangla28/Rate_Limiter/new/main?filename=README.md#-about)  
-- [Features](https://github.com/rahulmangla28/Rate_Limiter/new/main?filename=README.md#-features)  
-- [Installation](https://github.com/rahulmangla28/Rate_Limiter/new/main?filename=README.md#-installation)  
-- [Usage](https://github.com/rahulmangla28/Rate_Limiter/new/main?filename=README.md#-usage)  
-- [Configuration](https://github.com/rahulmangla28/Rate_Limiter/new/main?filename=README.md#-configuration)  
-- [Examples](https://github.com/rahulmangla28/Rate_Limiter/new/main?filename=README.md#-examples)  
-- [Contributing](https://github.com/rahulmangla28/Rate_Limiter/new/main?filename=README.md#-contributing)  
+- [About](https://github.com/rahulmangla28/Rate_Limiter?tab=readme-ov-file#-about)  
+- [Features](https://github.com/rahulmangla28/Rate_Limiter?tab=readme-ov-file#-features)  
+- [Installation](https://github.com/rahulmangla28/Rate_Limiter?tab=readme-ov-file#-installation)  
+- [Usage](https://github.com/rahulmangla28/Rate_Limiter?tab=readme-ov-file#-usage)  
+- [Configuration](https://github.com/rahulmangla28/Rate_Limiter?tab=readme-ov-file#-configuration)  
+- [Examples](https://github.com/rahulmangla28/Rate_Limiter?tab=readme-ov-file#-examples)  
+- [Contributing](https://github.com/rahulmangla28/Rate_Limiter?tab=readme-ov-file#-contributing)  
 
 
 ---
