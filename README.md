@@ -55,7 +55,7 @@ cd Rate_Limiter
 ---
 
 
-# Usage
+## Usage
 
 This example demonstrates how to use the `RateLimiter` package to limit the number of allowed calls within a time interval.
 
@@ -86,7 +86,7 @@ func main() {
 ---
 
 
-# ⚙️ Configuration
+## ⚙️ Configuration
 
 | Parameter | Description                      | Default |
 |-----------|--------------------------------|---------|
@@ -103,7 +103,7 @@ limiter := ratelimiter.NewRateLimiter(maxCalls, time.Duration(period)*time.Secon
 ---
 
 
-# 💡 Examples
+## 💡 Examples
 
 - Limit API request rates ⏳  
 - Control event handling frequency 🎯  
@@ -113,7 +113,7 @@ limiter := ratelimiter.NewRateLimiter(maxCalls, time.Duration(period)*time.Secon
 ---
 
 
-# 🚧 Future Enhancements
+## 🚧 Future Enhancements
 
 - **Distributed Rate Limiting:** Support rate limiting across multiple instances using Redis or other distributed stores.
 - **Customizable Callbacks:** Allow users to specify callbacks or hooks when a request is blocked.
@@ -125,7 +125,7 @@ limiter := ratelimiter.NewRateLimiter(maxCalls, time.Duration(period)*time.Secon
 ---
 
 
-# 🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
