@@ -24,8 +24,13 @@ A simple, efficient, and customizable **Rate Limiter** implementation in Go desi
 
 ## ❓ About
 
-Rate limiting is a crucial technique for controlling how frequently an action can be performed. This project offers a clean and straightforward Go implementation to limit the number of function calls or events in a given time frame. It is useful for APIs, services, or any system where throttling requests is necessary. 🚀
+Rate limiting is a method for controlling the frequency of requests made to a network, server, or other resource. It is crucial for preventing abuse, ensuring fair access, and maintaining overall system stability and performance.
 
+This project delivers a streamlined and effective Go implementation of a rate limiter, built to restrict the number of service calls or requests within a specified time interval. It's well-suited for APIs, web services, and backend systems that need robust throttling to protect against traffic spikes and ensure consistent performance.
+
+By regulating request flow, rate limiting helps defend against denial-of-service (DoS) and distributed denial-of-service (DDoS) attacks, prevents individual clients from monopolizing system resources, and ensures a smooth and responsive user experience. Additionally, it can help reduce infrastructure costs by avoiding unnecessary scaling due to uncontrolled traffic bursts.
+
+Whether you're developing a high-traffic API or safeguarding a backend service, this rate limiter provides a dependable foundation for managing request throughput effectively.
 
 ---
 
@@ -33,7 +38,7 @@ Rate limiting is a crucial technique for controlling how frequently an action ca
 ## ✨ Features
 
 - ✅ Easy to integrate with any Go project  
-- 🔄 Supports different limiting strategies (e.g., token bucket, leaky bucket, fixed window, sliding window)  
+- 🔄 Supports different rate limiting strategies (e.g., token bucket, leaky bucket, fixed window, sliding window)  
 - 🧵 Thread-safe and efficient  
 - ⚙️ Configurable limits and intervals  
 - 📦 Minimal dependencies  
